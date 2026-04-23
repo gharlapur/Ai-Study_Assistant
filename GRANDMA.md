@@ -1,3 +1,8 @@
+# TEAM MEMBERS
+# Chaitanya - M01091125
+# Gurubasavaraj - M01093116
+# Muddassir - M01090890
+
 Hi GRANDMA ,
 
 We built a small project called AI Study Assistant.
