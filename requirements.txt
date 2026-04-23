@@ -1,0 +1,10 @@
+streamlit
+langchain==0.1.17
+langchain-community
+faiss-cpu
+pypdf
+sentence-transformers
+huggingface_hub==0.20.3
+transformers
+torch
+python-dotenv
